@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4kg30SR/IDqo2cuIFo+kykJH3uByRfiq1iigNBX1kufHMQjen/Vl+HCSqFxQ0pxk5L7RRonNA9go39DaJYuOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeremy\\source\\repos\\navhaxs\\DoubleShiftHelper\\DoubleShiftHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeremy\\.nuget\\packages\\mousekeyhook\\5.7.1\\mousekeyhook.5.7.1.nupkg.sha512",
+    "C:\\Users\\Jeremy\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\Jeremy\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
